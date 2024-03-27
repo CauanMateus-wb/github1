@@ -1,6 +1,6 @@
-# Site da Equipe Alura Start! 
+# Projeto de Programação! 
 
-Fiz esse site para divulgar a equipe de trabalho incrivel que eu participo! 
+Fiz esse projeto como trabalho de programação! 
 
 Prototipo criado <a href="https://www.figma.com/file/fnayTC7vCARDn1aYsc6OGw/Prototipo-site?node-id=0%3A1" target="_blank" rel="noopener noreferrer">Figma</a>
 
